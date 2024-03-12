@@ -58,7 +58,7 @@ This will start the development server, typically at http://localhost:5173 (the 
 - Image uploads for blog posts (using Appwrite's storage capabilities)
 
 
-##Contributing
+## Contributing
 
 We welcome contributions to this project! Feel free to fork the repository, make changes, and submit pull requests.
 
