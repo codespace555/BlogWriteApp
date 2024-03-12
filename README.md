@@ -1,7 +1,7 @@
 # BlogWrite Web App
 
 Welcome to BlogWrite, a web application for writing and publishing blog posts! This README provides an overview of the BlogWrite web app, its features, and instructions for setting up and running the application locally.
-[Demo](blog-write-app-rho.vercel.app)
+[Demo](https://blog-write-app-rho.vercel.app/)
 
 ![BlogWrite](https://github.com/codespace555/BlogWriteApp/blob/main/preview/Screenshot%202024-03-13%20015942.png)
 ![BlogWrite](https://github.com/codespace555/BlogWriteApp/blob/main/preview/Screenshot%202024-03-13%20015832.png)
