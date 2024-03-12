@@ -12,8 +12,8 @@ function PostCard({ $id, title, featuredimage, content }) {
         <img src={storage.getFilePreview(featuredimage)} alt={title} className="h-[200px] w-full rounded-md object-cover"/>
           <div className="p-4">
             <h1 className="text-lg font-semibold">{title}</h1>
-            {/* <p className="mt-3 text-sm text-gray-300">
-            {parse(content)}</p> */}
+            <p className="mt-3 text-sm text-gray-300">
+            {parse(content)}</p>
            
           </div>
         </div>
