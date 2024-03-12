@@ -2,7 +2,10 @@
 
 Welcome to BlogWrite, a web application for writing and publishing blog posts! This README provides an overview of the BlogWrite web app, its features, and instructions for setting up and running the application locally.
 
+![BlogWrite](https://github.com/codespace555/BlogWriteApp/blob/main/preview/Screenshot%202024-03-13%20015942.png)
 ![BlogWrite](https://github.com/codespace555/BlogWriteApp/blob/main/preview/Screenshot%202024-03-13%20015832.png)
+![BlogWrite](https://github.com/codespace555/BlogWriteApp/blob/main/preview/Screenshot%202024-03-13%20015858.png)
+![BlogWrite](https://github.com/codespace555/BlogWriteApp/blob/main/preview/Screenshot%202024-03-13%20015918.png)
 ## Backend: Appwrite
 
 The backend of BlogWrite is powered by [Appwrite](https://appwrite.io/), an open-source, end-to-end backend as a service (BaaS) solution. With Appwrite, you can easily manage user authentication, database storage, file storage, and more, all from a unified platform.
